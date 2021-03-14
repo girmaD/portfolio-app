@@ -28,7 +28,7 @@ const Experience = () => {
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                 </div>
-                <div className="timeline-block timeline-block-left">
+                <div className="timeline-block timeline-block-right">
                     <div className="marker"></div>
                     <div className="timeline-content">
                         <h3>2021-present</h3>
