@@ -6,7 +6,7 @@ import { faDesktop, faLaptopCode, faCode } from '@fortawesome/free-solid-svg-ico
 const Services = () => {
     return (
         <div className="services">
-            <h1 className="py-5">My Services</h1>
+            <h1 className="py-5">My Interest Areas</h1>
             <div className="container">
                 <div className="row">
                     <div className="col-md-3 col-sm-6">

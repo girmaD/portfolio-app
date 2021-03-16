@@ -146,35 +146,35 @@ const Portfolio = () => {
             <div className="container">
                 <h1 className="text-uppercase text-center py-5">portfolio</h1>     
                 <div className="image-box-wrapper row justify-content-center">       
-                    <div className="portfolio-image-box " onClick={openPopupGameStock}>
+                    <div className="portfolio-image-box col-md-3" onClick={openPopupGameStock}>
                         <img className="portfolio-image" src={Gamestock} alt="gamestock-project"  />
                         <div className="overflow"></div>
                         <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
                     </div>                
-                    <div className="portfolio-image-box " onClick={openPopupboxWhaleWatching}>
+                    <div className="portfolio-image-box col-md-3" onClick={openPopupboxWhaleWatching}>
                         <img className="portfolio-image" src={Whalewatching} alt="whalewatching-project" />
                         <div className="overflow"></div>
                         <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
                     </div>             
-                    <div className="portfolio-image-box " onClick={openPopupboxBudget}>
+                    <div className="portfolio-image-box col-md-3" onClick={openPopupboxBudget}>
                         <img className="portfolio-image" src={Budget} alt="budget-tracker-project" />
                         <div className="overflow"></div>
                         <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
                     </div>                
                 
-                    <div className="portfolio-image-box " onClick={openPopupboxFitness}>
+                    <div className="portfolio-image-box col-md-3" onClick={openPopupboxFitness}>
                         <img className="portfolio-image" src={Fitness} alt="fitness-tracker-project" />
                         <div className="overflow"></div>
                         <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
                     </div>               
                 
-                    <div className="portfolio-image-box inline-block" onClick={openPopupboxEmployee}>
+                    <div className="portfolio-image-box col-md-3" onClick={openPopupboxEmployee}>
                         <img className="portfolio-image" src={EmployeeDir} alt="employee-directory-project" />
                         <div className="overflow"></div>
                         <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
                     </div>               
                 
-                    <div className="portfolio-image-box " onClick={openPopupboxWeather}>
+                    <div className="portfolio-image-box col-md-3" onClick={openPopupboxWeather}>
                         <img className="portfolio-image" src={Weather} alt="weather-project" />
                         <div className="overflow"></div>
                         <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
