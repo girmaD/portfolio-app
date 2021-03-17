@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.a8b8ecb0.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.cbab78ee.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.cbab78ee.chunk.js.map",
+    "runtime-main.js": "/portfolio-app/static/js/runtime-main.249aa3e8.js",
+    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.249aa3e8.js.map",
+    "static/css/2.bf59315e.chunk.css": "/portfolio-app/static/css/2.bf59315e.chunk.css",
+    "static/js/2.84e97e58.chunk.js": "/portfolio-app/static/js/2.84e97e58.chunk.js",
+    "static/js/2.84e97e58.chunk.js.map": "/portfolio-app/static/js/2.84e97e58.chunk.js.map",
+    "static/js/3.e39bc8de.chunk.js": "/portfolio-app/static/js/3.e39bc8de.chunk.js",
+    "static/js/3.e39bc8de.chunk.js.map": "/portfolio-app/static/js/3.e39bc8de.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "static/css/2.bf59315e.chunk.css.map": "/portfolio-app/static/css/2.bf59315e.chunk.css.map",
+    "static/css/main.a8b8ecb0.chunk.css.map": "/portfolio-app/static/css/main.a8b8ecb0.chunk.css.map",
+    "static/js/2.84e97e58.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.84e97e58.chunk.js.LICENSE.txt",
+    "static/media/EmpDir.df969b29.png": "/portfolio-app/static/media/EmpDir.df969b29.png",
+    "static/media/avatar-1.9277ecea.png": "/portfolio-app/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/portfolio-app/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/portfolio-app/static/media/avatar-3.d6c9b46f.png",
+    "static/media/App.css": "/portfolio-app/static/media/testimonials-bg.75612be7.jpg",
+    "static/media/budgetTrack.e48c765a.png": "/portfolio-app/static/media/budgetTrack.e48c765a.png",
+    "static/media/fitnessTracker.58be81ed.png": "/portfolio-app/static/media/fitnessTracker.58be81ed.png",
+    "static/media/ge.3c6ffb96.png": "/portfolio-app/static/media/ge.3c6ffb96.png",
+    "static/media/girmad.cef3847f.jpg": "/portfolio-app/static/media/girmad.cef3847f.jpg",
+    "static/media/tripPlanner.89995f7f.png": "/portfolio-app/static/media/tripPlanner.89995f7f.png",
+    "static/media/user.407d1084.png": "/portfolio-app/static/media/user.407d1084.png",
+    "static/media/weather.3891cb1b.png": "/portfolio-app/static/media/weather.3891cb1b.png",
+    "static/media/whaleWatching.5c1b82cb.png": "/portfolio-app/static/media/whaleWatching.5c1b82cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.249aa3e8.js",
+    "static/css/2.bf59315e.chunk.css",
+    "static/js/2.84e97e58.chunk.js",
+    "static/css/main.a8b8ecb0.chunk.css",
+    "static/js/main.cbab78ee.chunk.js"
+  ]
+}
