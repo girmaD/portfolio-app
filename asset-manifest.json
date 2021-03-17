@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-app/static/css/main.a8b8ecb0.chunk.css",
+    "main.css": "/portfolio-app/static/css/main.3faceb4c.chunk.css",
     "main.js": "/portfolio-app/static/js/main.cbab78ee.chunk.js",
     "main.js.map": "/portfolio-app/static/js/main.cbab78ee.chunk.js.map",
     "runtime-main.js": "/portfolio-app/static/js/runtime-main.249aa3e8.js",
@@ -12,7 +12,7 @@
     "static/js/3.e39bc8de.chunk.js.map": "/portfolio-app/static/js/3.e39bc8de.chunk.js.map",
     "index.html": "/portfolio-app/index.html",
     "static/css/2.bf59315e.chunk.css.map": "/portfolio-app/static/css/2.bf59315e.chunk.css.map",
-    "static/css/main.a8b8ecb0.chunk.css.map": "/portfolio-app/static/css/main.a8b8ecb0.chunk.css.map",
+    "static/css/main.3faceb4c.chunk.css.map": "/portfolio-app/static/css/main.3faceb4c.chunk.css.map",
     "static/js/2.84e97e58.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.84e97e58.chunk.js.LICENSE.txt",
     "static/media/EmpDir.df969b29.png": "/portfolio-app/static/media/EmpDir.df969b29.png",
     "static/media/avatar-1.9277ecea.png": "/portfolio-app/static/media/avatar-1.9277ecea.png",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.249aa3e8.js",
     "static/css/2.bf59315e.chunk.css",
     "static/js/2.84e97e58.chunk.js",
-    "static/css/main.a8b8ecb0.chunk.css",
+    "static/css/main.3faceb4c.chunk.css",
     "static/js/main.cbab78ee.chunk.js"
   ]
 }
