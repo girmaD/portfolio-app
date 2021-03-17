@@ -10,28 +10,28 @@ const Experience = () => {
                 <div className="timeline-block timeline-block-left">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>2017-2018</h3>
+                        <h3>2021-present</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                 </div>
                 <div className="timeline-block timeline-block-right">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>2018-2020</h3>
+                        <h3>2019-2021</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                 </div>
                 <div className="timeline-block timeline-block-left">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>2020-2020</h3>
+                        <h3>2018-2019</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                 </div>
                 <div className="timeline-block timeline-block-right">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>2021-present</h3>
+                        <h3>2016-2019</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                 </div>

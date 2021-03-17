@@ -314,6 +314,7 @@ nav {
 
 .portfolio-wrapper h1 {
   color: var(--primary-orange);
+  background: var(--primary-orange);
 }
 
 .portfolio-image {
@@ -561,6 +562,28 @@ textarea.form-control {
   .contacts p {
     padding: 0 0.4rem;
   }
+}
+
+/* styling footer */
+.footer {
+  background: var(--primary-black);
+  color: var(--primary-dark-grey);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-dark-grey);
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: var(--primary-orange);
+  cursor:pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
 }
 
 

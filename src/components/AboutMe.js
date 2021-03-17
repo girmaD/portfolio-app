@@ -4,7 +4,7 @@ import girmad from '../girmad.jpg';
 
 const AboutMe = () => {
     return (
-        <div className="container py-5">
+        <div id="aboutme" className="container py-5">
           <div className="row">              
               <div className="col-lg-6 " >
                 <div className="photo-wrapper mb-5">                  
@@ -14,7 +14,13 @@ const AboutMe = () => {
               <div className="col-lg-6 ">
                 <h1 className="about-heading">About Me</h1>
                 <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                My name is Girma D. Ebbsa. Currently, I am studying Full Stack Web Development bootcamp and University of Washington. I, recently developed interest in software development and started taking courses both online and in class. First, I took Introduction to software development and testing at Hahu IT, Bellevue, WA. Then, I took a 47 hour Web developemt bootcamp course on Udemy. These newly gained knowledges motivated me to start class at University of Washington coding bootcamp.
+                </p>
+                <p>
+                My background is Economics. I have taken a bunch of Math, statistics and econometrics courses that taught me, more than anything, to be analytical. I believe my background gives me a unique perspective in the web developemt world.
+                </p>
+                <p>
+                I am a friendly person who enjoy interacting with people. I like having conversation about current topics. I am an ardent news reader. I sometimes believe I read too much news that I need. But it has helped me to understand the world I live in.
                 </p>
               </div>
           </div>  
