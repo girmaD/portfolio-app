@@ -313,8 +313,7 @@ nav {
 }
 
 .portfolio-wrapper h1 {
-  color: var(--primary-orange);
-  background: var(--primary-orange);
+  color: var(--primary-orange);  
 }
 
 .portfolio-image {
