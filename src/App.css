@@ -78,7 +78,7 @@ nav {
   border-top: .287rem solid var(--primary-dark);
 }
 
-.navbar-nav > li > a.active, .navbar-nav > li > a.active:focus {
+.navbar-nav > li > a.active, .navbar-nav > li > a:focus {
   border-top: .287rem solid var(--primary-orange);
 }
 
